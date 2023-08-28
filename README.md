@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 
 <br/>
 <p align="center">
-  <a href="https://www.hackerrank.com/nibinpsreenivas1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+  <a href=""><img src=""></a>
 
 </p>
 <br/>
