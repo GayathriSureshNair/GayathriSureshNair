@@ -17,14 +17,11 @@ Here are some ideas to get you started:
 ![MasterHead](https://media.istockphoto.com/id/1305858007/vector/programming-concept-woman-programmer-make-site-or-web-interface-project-female-character.jpg?s=612x612&w=0&k=20&c=6PUktIRwgZrTufbvht5_VI0iVFFBFTCd7Wu1Kb6qRY8=)
 <h1 align="center">Hi 👋, I'm GAYATHRI S NAIR</h1>
 <!-- HaedLine !-->
-<img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=000000&width=500&lines=I+am+a+Flutter+Evangelist+and+data+Engineer....">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GayathriSureshNair&label=Profile%20views&color=0e75b6&style=flat" alt="GayathriSureshNair" /> </p>
   
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBT9rAF0sZcEFEs9AFc0SlgUoomKeUZ87OsA&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
       
-- 💬 Ask me about *DART,JAVA,FLUTTER*
-- > Be Creative to Think Unique, to Be Unique - *GAYATHRI* 💕
-     
 - 📫 How to reach me *gaya3zindia@gmail.com*
            
 <h3 align="left">Connect with me:</h3>
