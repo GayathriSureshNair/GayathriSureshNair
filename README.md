@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![MasterHead]([https://pbs.twimg.com/media/FKNlhKZUcAEd7FY?format=jpg&name=4096x4096](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBT9rAF0sZcEFEs9AFc0SlgUoomKeUZ87OsA&usqp=CAU))
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBT9rAF0sZcEFEs9AFc0SlgUoomKeUZ87OsA&usqp=CAU)
 <h1 align="center">Hi 👋, I'm GAYATHRI S NAIR</h1>
 <!-- HaedLine !-->
 <img src="https://media.istockphoto.com/id/1305858007/vector/programming-concept-woman-programmer-make-site-or-web-interface-project-female-character.jpg?s=612x612&w=0&k=20&c=6PUktIRwgZrTufbvht5_VI0iVFFBFTCd7Wu1Kb6qRY8=">
